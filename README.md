@@ -9,6 +9,6 @@
 ![image](https://user-images.githubusercontent.com/101377686/180912582-e4ec08c8-33bd-4fdc-91f2-ed36c66b45ef.png)
 
 - 끝으로
-이것은 https://getbootstrap.com/docs/5.2/examples/에서 다운받아 편집하였으며 굉장히 재밌었습니다
+이것은 https://getbootstrap.com/docs/5.2/examples/ 에서 다운받아 편집하였으며 굉장히 재밌었습니다
 
 -감사합니다-
